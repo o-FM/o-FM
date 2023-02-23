@@ -21,8 +21,7 @@
 <div>
   <a href="https://github.com/FM-007" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FM-007&show_icons=true&theme=highcontrast&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FM-007&layout=compact&theme=highcontrast&hide=PHP" />
-	![Snake animation](https
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FM-007&layout=compact&theme=highcontrast&hide=PHP" />	
 </div><br>
 
 <div style="display: inline_block">
@@ -35,3 +34,4 @@
 	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 </div>
+![Snake animation](https://github.com/FM-007/FM-007/blob/output/github-contribution-grid-snake.svc)
