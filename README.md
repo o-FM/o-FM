@@ -20,7 +20,7 @@
 
 <div>
   <a href="https://github.com/FM-007" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FM-007&show_icons=true&theme=highcontrast&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FM-007&show_icons=true&theme=highcontrast" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FM-007&layout=compact&theme=highcontrast&hide=PHP" />
 	<img src="https://github.com/FM-007/FM-007/blob/output/github-contribution-grid-snake.svg" />
 </div><br>
