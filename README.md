@@ -4,13 +4,17 @@
   Atualmente atuando como desenvolvedor Java com Spring Framework na construção de micro serviços voltados ao backend do setor financeiro e ambiente Cloud   em projetos ágeis. Possuo sólida experiência como desenvolvedor frontend em React.js, consumindo APIs em backend Java. Possuo perfil automotivado e         cooperativo, reconhecido pela flexibilidade e criatividade na solução de problemas.
 </p>
 <div>
-	<a href="https://linkedin.com/in/felipe-moreira-8a9b3b1a0">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://www.hackerrank.com/felipe_moreira_1">
-		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-	</a>
-</div>
+  <a href="https://github.com/o-FM">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-FM&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-FM&layout=compact&theme=highcontrast&hide=PHP" />
+  </a>
+</div><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o-FM/o-FM/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o-FM/o-FM/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/o-FM/o-FM/output/snake.svg" />
+</picture>
 
 <h3>Curiosidades:</h3>
 
