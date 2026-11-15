@@ -21,8 +21,8 @@
 
 <div>
   <a href="https://github.com/o-FM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-FM&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-FM&layout=compact&theme=highcontrast&hide=PHP" />
+    <img height="180em" src="https://raw.githubusercontent.com/o-FM/o-FM/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <img height="180em" src="https://raw.githubusercontent.com/o-FM/o-FM/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
   </a>
 </div>
 <br>
